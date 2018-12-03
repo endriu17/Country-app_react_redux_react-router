@@ -2,8 +2,6 @@
 
 React, Redux, React-router
 
-https://endriu17.github.io/country-app/.
-
 ## Available Scripts
 
 In the project directory, you can run:
