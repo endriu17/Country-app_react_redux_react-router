@@ -1,6 +1,6 @@
 ## Country App
 
-### React Redux React-router
+React, Redux, React-router
 
 ## Available Scripts
 
