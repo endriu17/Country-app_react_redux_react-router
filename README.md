@@ -2,6 +2,8 @@
 
 React, Redux, React-router
 
+## Site preview: [HERE](https://happy-stonebraker-3dbc14.netlify.com/#/)
+
 ## Available Scripts
 
 In the project directory, you can run:
